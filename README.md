@@ -18,7 +18,7 @@ The project has three different modules
 ```
 ./gradlew spoon
 ```
-![Alt text](/spoon.jpg?raw=true "Spoon example")
+![Alt text](/spoon.png?raw=true "Spoon example")
 
 **JUnit** and **Robolectric** tests can be ran using one of the following:
 
